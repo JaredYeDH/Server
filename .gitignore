@@ -9,3 +9,9 @@ Log
 /ELogging/ELogging/Debug
 /ELogging/ELogging/x64
 /LoginServer/LoginServer/x64
+/BalanceServer/BalanceServer/Debug
+/CentralServer/CSBattleMgr/Debug
+/GateServer/GSKernel/Debug
+/LoginServer/LoginServer/Debug
+/LogServer/LogServer/Debug
+/SceneServer/SSBattleMgr/Debug
