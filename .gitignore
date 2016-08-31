@@ -4,3 +4,8 @@ Log
 /GateServer/GSKernel/x64
 /LogServer/LogServer/x64
 /SceneServer/SSBattleMgr/x64
+*.sdf
+*.suo
+/ELogging/ELogging/Debug
+/ELogging/ELogging/x64
+/LoginServer/LoginServer/x64
